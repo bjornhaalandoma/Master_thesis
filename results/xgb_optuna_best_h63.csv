@@ -1,0 +1,2 @@
+window,n_estimators,max_depth,learning_rate,subsample,colsample_bytree,min_child_weight,reg_lambda,best_avg_frobenius,best_avg_qlike
+315,100,2,0.015278122630528215,1.0,0.7,37,0.12322833893586525,9.110452999415817e-06,18.53147274313161
