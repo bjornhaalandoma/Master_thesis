@@ -1,2 +1,2 @@
-window,C,gamma_mode,gamma,epsilon,best_avg_qlike,best_avg_frobenius,gamma_used
-126,0.009056057518279021,numeric,0.06345642357835347,0.07914993477339843,19.5871573193927,0.0024867879920821814,0.06345642357835347
+window,C,gamma_mode,epsilon,best_avg_qlike,best_avg_frobenius,n_forecasts,n_refits,n_valid_qlike,n_invalid_qlike,gamma_used
+315,0.004034469074099727,scale,1.7671642980272697e-05,19.901450332670855,0.0018963736444281005,443,443,443,0,scale
