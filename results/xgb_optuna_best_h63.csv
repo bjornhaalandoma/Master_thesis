@@ -1,2 +1,2 @@
-window,n_estimators,max_depth,learning_rate,subsample,colsample_bytree,min_child_weight,reg_lambda,best_avg_qlike,best_avg_frobenius
-315,100,2,0.0050066252029653995,0.6,0.8,28,0.3738588114677653,17.346758194215212,0.001954308775194727
+window,n_estimators,max_depth,learning_rate,subsample,colsample_bytree,min_child_weight,reg_lambda,best_avg_qlike,best_avg_frobenius,n_forecasts,n_refits,n_valid_qlike,n_invalid_qlike
+315,100,2,0.005037605724124686,1.0,0.8,27,0.012973431942824814,17.300718077572824,0.0019608393129134493,443,443,443,0
